@@ -1,8 +1,9 @@
 # PhoneBook API
 
-# LIVE DEMO AT: http://blahblah.com
+## LIVE DEMO AT: http://blahblah.com
+**Please note: Demo is hosted on Free Horoku hosting and it goes to 'sleep' every 30 minutes of inactivity. It needs around 20 seconds to wake up if you are running it for the first time after 30 minutes passed.**
 
-Guide for running application:
+## Guide for running application:
 
 1. Clone the repository 
 2. Install all dependencies with -> npm install 
