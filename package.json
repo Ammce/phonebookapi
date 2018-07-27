@@ -1,0 +1,24 @@
+{
+  "name": "phonebookapi",
+  "version": "1.0.0",
+  "description": "An application built up for interview purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amel Muminovic",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0"
+  },
+  "engines": {
+    "node": "6.11.4"
+  }
+}
