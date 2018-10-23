@@ -1,4 +1,4 @@
-# PhoneBook API
+# PhoneBookAPI
 
 ## LIVE DEMO AT: https://phonebook2018.herokuapp.com/
 **Please note: Demo is hosted on Free Horoku hosting and it goes to 'sleep' every 30 minutes of inactivity. It needs around 20 seconds to wake up if you are running it for the first time after 30 minutes passed.**
